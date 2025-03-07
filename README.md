@@ -2,6 +2,7 @@ Numerical Methods for Euler and Runge-Kutta
 #Description This program uses the Euler and Runge-Lutta method to approximate values.
 
 -Solves the Euler method using the f(x) and given values for range Iterations and f(0).
+
 -Solves the Runge-Kutta method using the f(x) and given values for range Iterations and f(0).
 
 #Dependencies -This program uses no dependencies.
